@@ -1,0 +1,42 @@
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\BLL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\AutoMapper.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\AutoMapper.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\bin\Debug\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\BLL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\AutoMapper.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\AutoMapper.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\bin\Debug\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\BLL\obj\Debug\BLL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\BLL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\BLL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\AutoMapper.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\DAL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\EntityFramework.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\DAL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\DAL.dll.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\AutoMapper.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\bin\Debug\EntityFramework.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\obj\Debug\BLL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\BLL\obj\Debug\BLL.pdb

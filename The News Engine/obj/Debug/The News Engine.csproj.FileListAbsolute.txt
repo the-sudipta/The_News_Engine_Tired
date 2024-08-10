@@ -1,0 +1,242 @@
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\The News Engine.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csi.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csi.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\csi.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\vbc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\vbc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\vbc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\Newtonsoft.Json.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Net.Http.Formatting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Web.Http.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Web.Http.WebHost.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\Newtonsoft.Json.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Net.Http.Formatting.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Web.Http.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\System.Web.Http.WebHost.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\EntityFramework.SqlServer.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\EntityFramework.SqlServer.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Buffers.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Memory.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Create_Category_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.GenerateResource.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Create_News_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Create_One_to_Many_Relationship_one_side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Create_Many_to_One_Relationship_many_side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Add_DBSET_for_Category.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Add_DBSET_for_News.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Add_data_to_category.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\The News Engine\The News Engine\obj\Debug\The_News_Engine.Migrations.Add_data_to_news.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Buffers.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Memory.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\AutoMapper.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.SqlServer.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\Newtonsoft.Json.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Net.Http.Formatting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.WebHost.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\BLL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\AutoMapper.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.SqlServer.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\Newtonsoft.Json.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Net.Http.Formatting.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.WebHost.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\bin\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\The News Engine.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\csi.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Buffers.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Memory.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Numerics.Vectors.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\vbc.rsp
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\AutoMapper.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\BLL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.SqlServer.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\Newtonsoft.Json.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Net.Http.Formatting.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.WebHost.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\BLL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\AutoMapper.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\EntityFramework.SqlServer.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\Newtonsoft.Json.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Net.Http.Formatting.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\System.Web.Http.WebHost.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\bin\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\The News Engine\obj\Debug\The News Engine.csproj.CopyComplete
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\The News Engine.dll.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\The News Engine.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\The News Engine.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csc.exe
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csc.exe.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csc.rsp
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csi.exe
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csi.exe.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\csi.rsp
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Buffers.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Collections.Immutable.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Memory.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Numerics.Vectors.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\vbc.exe
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\vbc.exe.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\vbc.rsp
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\VBCSCompiler.exe
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\roslyn\VBCSCompiler.exe.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\AutoMapper.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\BLL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\EntityFramework.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\EntityFramework.SqlServer.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\Newtonsoft.Json.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Net.Http.Formatting.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Web.Http.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Web.Http.WebHost.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\DAL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\BLL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\AutoMapper.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\EntityFramework.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\EntityFramework.SqlServer.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\Newtonsoft.Json.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Net.Http.Formatting.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Web.Http.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\System.Web.Http.WebHost.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\DAL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\bin\DAL.dll.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\obj\Debug\The News Engine.csproj.AssemblyReference.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\obj\Debug\The News Engine.csproj.CoreCompileInputs.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\obj\Debug\The News.1E4C4002.Up2Date
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\obj\Debug\The News Engine.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\The News Engine\obj\Debug\The News Engine.pdb

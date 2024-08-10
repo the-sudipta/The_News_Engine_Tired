@@ -1,0 +1,54 @@
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Create_Category_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Create_News_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_Cateory_Side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_News_Side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Assignment\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Feeding_News_Data.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.dll.config
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\DAL.pdb
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Create_Category_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Create_News_Table.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_Cateory_Side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_News_Side.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.Migrations.Feeding_News_Data.resources
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.dll
+D:\ASP  .NET Codes\Web Apps\WEB-APPS\Layered Architecture\The News Engine\DAL\obj\Debug\DAL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\DAL.dll.config
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\DAL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\DAL.pdb
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\EntityFramework.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\EntityFramework.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.Migrations.Create_Category_Table.resources
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.Migrations.Create_News_Table.resources
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_Cateory_Side.resources
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.Migrations.Stablishing_Category_News_Relation_News_Side.resources
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.Migrations.Feeding_News_Data.resources
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.dll
+E:\Yaarian\PROGRAMING\.NET\Web Apps\WEB-APPS\The News Engine Tired\DAL\obj\Debug\DAL.pdb

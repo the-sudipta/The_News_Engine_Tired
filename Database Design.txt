@@ -1,0 +1,32 @@
+Certainly! Here's a more detailed description of the relations among the three tables:
+
+    Restaurant Table:
+        Attributes: restaurant_id (primary key), restaurant_name, restaurant_address, restaurant_contact
+
+    Collect Request Table:
+
+        Attributes: request_id (primary key), restaurant_id (foreign key), max_preservation_time, collection_status
+
+        Relations:
+            The "restaurant_id" column in the Collect Request table is a foreign key that references the "restaurant_id" column in the Restaurant table.
+            This relation establishes a link between a collect request and the restaurant that created it.
+            Each collect request belongs to one specific restaurant.
+
+    Employee Table:
+
+        Attributes: employee_id (primary key), employee_name, employee_email, employee_password, request_id (foreign key)
+
+        Relations:
+            The "request_id" column in the Employee table is a foreign key that references the "request_id" column in the Collect Request table.
+            This relation allows an employee to be assigned to a particular collect request.
+            An employee can be associated with only one collect request at a time.
+
+To summarize:
+
+    The Restaurant table holds information about different restaurants participating in the program.
+    The Collect Request table stores details of each food collection request made by a restaurant, including the maximum preservation time and collection status.
+    The Employee table contains information about the employees involved in collecting and distributing the food. The request_id field in this table establishes a connection between an employee and the specific collect request they are assigned to.
+
+This structure allows you to track the collect requests made by restaurants, assign employees to those requests, and maintain the relationships between the entities involv
+
+ed.

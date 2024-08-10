@@ -1,0 +1,1249 @@
+{
+	"info": {
+		"_postman_id": "b937a5ec-9e7e-44fb-a2a1-d5bf534fb675",
+		"name": "The News Engine",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "20325646"
+	},
+	"item": [
+		{
+			"name": "Search All Category",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/category/all",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"category",
+						"all"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search All Category",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/category/all",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"category",
+								"all"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcY2F0ZWdvcnlcYWxs?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:02:30 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "2582"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Newses\": [],\n        \"Category_ID\": 1,\n        \"Name\": \"68259e8-4a\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 1,\n                \"Title\": \"Title 1\",\n                \"Description\": \"c5d900b-ba\",\n                \"Date\": \"2023-12-14T00:00:00\",\n                \"Category_ID\": 2\n            },\n            {\n                \"News_ID\": 6,\n                \"Title\": \"Title 6\",\n                \"Description\": \"fd405b7-75\",\n                \"Date\": \"2023-09-19T00:00:00\",\n                \"Category_ID\": 2\n            }\n        ],\n        \"Category_ID\": 2,\n        \"Name\": \"3d57d12-db\"\n    },\n    {\n        \"Newses\": [],\n        \"Category_ID\": 3,\n        \"Name\": \"9f99917-f7\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 3,\n                \"Title\": \"Title 3\",\n                \"Description\": \"3a4db05-22\",\n                \"Date\": \"2023-11-19T00:00:00\",\n                \"Category_ID\": 4\n            }\n        ],\n        \"Category_ID\": 4,\n        \"Name\": \"31317de-97\"\n    },\n    {\n        \"Newses\": [],\n        \"Category_ID\": 5,\n        \"Name\": \"8aeae39-e1\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 7,\n                \"Title\": \"Title 7\",\n                \"Description\": \"63dca87-c4\",\n                \"Date\": \"2023-05-08T00:00:00\",\n                \"Category_ID\": 6\n            }\n        ],\n        \"Category_ID\": 6,\n        \"Name\": \"bc807b3-9e\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 10,\n                \"Title\": \"Title 10\",\n                \"Description\": \"c448484-c1\",\n                \"Date\": \"2023-06-30T00:00:00\",\n                \"Category_ID\": 7\n            }\n        ],\n        \"Category_ID\": 7,\n        \"Name\": \"fbe083b-72\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 8,\n                \"Title\": \"Title 8\",\n                \"Description\": \"361290e-b0\",\n                \"Date\": \"2023-07-30T00:00:00\",\n                \"Category_ID\": 8\n            },\n            {\n                \"News_ID\": 9,\n                \"Title\": \"Title 9\",\n                \"Description\": \"f513f97-ac\",\n                \"Date\": \"2023-10-26T00:00:00\",\n                \"Category_ID\": 8\n            }\n        ],\n        \"Category_ID\": 8,\n        \"Name\": \"71bd65d-12\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 4,\n                \"Title\": \"Title 4\",\n                \"Description\": \"7f88c77-9e\",\n                \"Date\": \"2023-04-15T00:00:00\",\n                \"Category_ID\": 9\n            },\n            {\n                \"News_ID\": 5,\n                \"Title\": \"Title 5\",\n                \"Description\": \"7d0444e-fa\",\n                \"Date\": \"2023-06-12T00:00:00\",\n                \"Category_ID\": 9\n            }\n        ],\n        \"Category_ID\": 9,\n        \"Name\": \"6fdd23a-96\"\n    },\n    {\n        \"Newses\": [\n            {\n                \"News_ID\": 2,\n                \"Title\": \"Title 2\",\n                \"Description\": \"663f1ad-70\",\n                \"Date\": \"2023-12-20T00:00:00\",\n                \"Category_ID\": 10\n            }\n        ],\n        \"Category_ID\": 10,\n        \"Name\": \"aec0c36-b2\"\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "View Single Category",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/category/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"category",
+						"2"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "View Single Category",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/category/2",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"category",
+								"2"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcY2F0ZWdvcnlcMg==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:05:00 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "256"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Newses\": [\n        {\n            \"News_ID\": 1,\n            \"Title\": \"Title 1\",\n            \"Description\": \"c5d900b-ba\",\n            \"Date\": \"2023-12-14T00:00:00\",\n            \"Category_ID\": 2\n        },\n        {\n            \"News_ID\": 6,\n            \"Title\": \"Title 6\",\n            \"Description\": \"fd405b7-75\",\n            \"Date\": \"2023-09-19T00:00:00\",\n            \"Category_ID\": 2\n        }\n    ],\n    \"Category_ID\": 2,\n    \"Name\": \"3d57d12-db\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Create Category",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Name\" : \"Horoscope\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44375//api/category/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"",
+						"api",
+						"category",
+						"create"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Create Category",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Name\" : \"Horoscope\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44375//api/category/create",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"",
+								"api",
+								"category",
+								"create"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcY2F0ZWdvcnlcY3JlYXRl?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:05:33 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "49"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Category_ID\": 11,\n    \"Name\": \"Horoscope\",\n    \"Newses\": []\n}"
+				}
+			]
+		},
+		{
+			"name": "Update Category",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Category_ID\" : 7,\r\n    \"Name\" : \"Test\"\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44375/api/category/edit",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"category",
+						"edit"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Update Category",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Category_ID\" : 7,\r\n    \"Name\" : \"Test\"\r\n\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44375/api/category/edit",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"category",
+								"edit"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcY2F0ZWdvcnlcZWRpdA==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:06:09 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "148"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Newses\": [\n        {\n            \"News_ID\": 10,\n            \"Title\": \"Title 10\",\n            \"Description\": \"c448484-c1\",\n            \"Date\": \"2023-06-30T00:00:00\",\n            \"Category_ID\": 7\n        }\n    ],\n    \"Category_ID\": 7,\n    \"Name\": \"Test\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Delete Category",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/category/delete/3",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"category",
+						"delete",
+						"3"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Delete Category",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/category/delete/3",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"category",
+								"delete",
+								"3"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcY2F0ZWdvcnlcZGVsZXRlXDM=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 21:12:10 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "31"
+						}
+					],
+					"cookie": [],
+					"body": "\"The Category has been Deleted\""
+				}
+			]
+		},
+		{
+			"name": "Search All News",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/all",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"all"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search All News",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/all",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"all"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1xhbGw=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:18:46 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "1896"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 1,\n            \"Name\": \"68259e8-4a\"\n        },\n        \"News_ID\": 1,\n        \"Title\": \"Title 1\",\n        \"Description\": \"c5d900b-ba\",\n        \"Date\": \"2023-12-14T00:00:00\",\n        \"Category_ID\": 1\n    },\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 10,\n            \"Name\": \"aec0c36-b2\"\n        },\n        \"News_ID\": 2,\n        \"Title\": \"Title 2\",\n        \"Description\": \"663f1ad-70\",\n        \"Date\": \"2023-12-20T00:00:00\",\n        \"Category_ID\": 10\n    },\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 4,\n            \"Name\": \"31317de-97\"\n        },\n        \"News_ID\": 3,\n        \"Title\": \"Title 3\",\n        \"Description\": \"3a4db05-22\",\n        \"Date\": \"2023-11-19T00:00:00\",\n        \"Category_ID\": 4\n    },\n    {\n        \"Category\": {\n            \"Newses\": [\n                {\n                    \"News_ID\": 5,\n                    \"Title\": \"Title 5\",\n                    \"Description\": \"7d0444e-fa\",\n                    \"Date\": \"2023-06-12T00:00:00\",\n                    \"Category_ID\": 9\n                }\n            ],\n            \"Category_ID\": 9,\n            \"Name\": \"6fdd23a-96\"\n        },\n        \"News_ID\": 4,\n        \"Title\": \"Title 4\",\n        \"Description\": \"7f88c77-9e\",\n        \"Date\": \"2023-04-15T00:00:00\",\n        \"Category_ID\": 9\n    },\n    {\n        \"Category\": {\n            \"Newses\": [\n                {\n                    \"News_ID\": 4,\n                    \"Title\": \"Title 4\",\n                    \"Description\": \"7f88c77-9e\",\n                    \"Date\": \"2023-04-15T00:00:00\",\n                    \"Category_ID\": 9\n                }\n            ],\n            \"Category_ID\": 9,\n            \"Name\": \"6fdd23a-96\"\n        },\n        \"News_ID\": 5,\n        \"Title\": \"Title 5\",\n        \"Description\": \"7d0444e-fa\",\n        \"Date\": \"2023-06-12T00:00:00\",\n        \"Category_ID\": 9\n    },\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 6,\n            \"Name\": \"bc807b3-9e\"\n        },\n        \"News_ID\": 7,\n        \"Title\": \"Title 7\",\n        \"Description\": \"63dca87-c4\",\n        \"Date\": \"2023-05-08T00:00:00\",\n        \"Category_ID\": 6\n    },\n    {\n        \"Category\": {\n            \"Newses\": [\n                {\n                    \"News_ID\": 9,\n                    \"Title\": \"Title 9\",\n                    \"Description\": \"f513f97-ac\",\n                    \"Date\": \"2023-10-26T00:00:00\",\n                    \"Category_ID\": 8\n                }\n            ],\n            \"Category_ID\": 8,\n            \"Name\": \"71bd65d-12\"\n        },\n        \"News_ID\": 8,\n        \"Title\": \"Title 8\",\n        \"Description\": \"361290e-b0\",\n        \"Date\": \"2023-07-30T00:00:00\",\n        \"Category_ID\": 8\n    },\n    {\n        \"Category\": {\n            \"Newses\": [\n                {\n                    \"News_ID\": 8,\n                    \"Title\": \"Title 8\",\n                    \"Description\": \"361290e-b0\",\n                    \"Date\": \"2023-07-30T00:00:00\",\n                    \"Category_ID\": 8\n                }\n            ],\n            \"Category_ID\": 8,\n            \"Name\": \"71bd65d-12\"\n        },\n        \"News_ID\": 9,\n        \"Title\": \"Title 9\",\n        \"Description\": \"f513f97-ac\",\n        \"Date\": \"2023-10-26T00:00:00\",\n        \"Category_ID\": 8\n    },\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 7,\n            \"Name\": \"Test\"\n        },\n        \"News_ID\": 10,\n        \"Title\": \"Title 10\",\n        \"Description\": \"c448484-c1\",\n        \"Date\": \"2023-06-30T00:00:00\",\n        \"Category_ID\": 7\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "Search Single News",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/7",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"7"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search Single News",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/7",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"7"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1w3?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:44:57 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "164"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Category\": {\n        \"Newses\": [],\n        \"Category_ID\": 6,\n        \"Name\": \"bc807b3-9e\"\n    },\n    \"News_ID\": 7,\n    \"Title\": \"Title 7\",\n    \"Description\": \"63dca87-c4\",\n    \"Date\": \"2023-05-08T00:00:00\",\n    \"Category_ID\": 6\n}"
+				}
+			]
+		},
+		{
+			"name": "Create News",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"Title\": \"Test News\",\r\n    \"Description\": \"This is the description\",\r\n    \"Date\": \"2023-12-1\",\r\n    \"Category_ID\": 11\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44375/api/news/create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"create"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Create News",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"Title\": \"Test News\",\r\n    \"Description\": \"This is the description\",\r\n    \"Date\": \"2023-12-1\",\r\n    \"Category_ID\": 11\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44375/api/news/create",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"create"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1xjcmVhdGU=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:48:58 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "136"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"News_ID\": 11,\n    \"Title\": \"Test News\",\n    \"Description\": \"This is the description\",\n    \"Date\": \"2023-12-01T00:00:00\",\n    \"Category_ID\": 11,\n    \"Category\": null\n}"
+				}
+			]
+		},
+		{
+			"name": "Update News",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"News_ID\": 11,\r\n    \"Title\": \"Updated Test News\",\r\n    \"Description\": \"Heyy it has been Updated\",\r\n    \"Date\": \"2023-12-1\",\r\n    \"Category_ID\": 11\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44375/api/news/edit",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"edit"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Update News",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"News_ID\": 11,\r\n    \"Title\": \"Updated Test News\",\r\n    \"Description\": \"Heyy it has been Updated\",\r\n    \"Date\": \"2023-12-1\",\r\n    \"Category_ID\": 11\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:44375/api/news/edit",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"edit"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1xlZGl0?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:51:55 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "190"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Category\": {\n        \"Newses\": [],\n        \"Category_ID\": 11,\n        \"Name\": \"Horoscope\"\n    },\n    \"News_ID\": 11,\n    \"Title\": \"Updated Test News\",\n    \"Description\": \"Heyy it has been Updated\",\n    \"Date\": \"2023-12-01T00:00:00\",\n    \"Category_ID\": 11\n}"
+				}
+			]
+		},
+		{
+			"name": "Delete News",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/delete/4",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"delete",
+						"4"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Delete News",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/delete/4",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"delete",
+								"4"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1xkZWxldGVcNA==?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 12:53:13 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "27"
+						}
+					],
+					"cookie": [],
+					"body": "\"The News has been Deleted\""
+				}
+			]
+		},
+		{
+			"name": "Search News by Date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/2023-12-20",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"2023-12-20"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search News by Date",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/2023-12-20",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"2023-12-20"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1wyMDIzLTEyLTIw?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 16:19:02 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "168"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 10,\n            \"Name\": \"aec0c36-b2\"\n        },\n        \"News_ID\": 2,\n        \"Title\": \"Title 2\",\n        \"Description\": \"663f1ad-70\",\n        \"Date\": \"2023-12-20T00:00:00\",\n        \"Category_ID\": 10\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "Search News by Category Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/category/Test",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"category",
+						"Test"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search News by Category Name",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/category/Test",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"category",
+								"Test"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1xjYXRlZ29yeVxUZXN0?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 21:02:03 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "162"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 7,\n            \"Name\": \"Test\"\n        },\n        \"News_ID\": 10,\n        \"Title\": \"Title 10\",\n        \"Description\": \"c448484-c1\",\n        \"Date\": \"2023-06-30T00:00:00\",\n        \"Category_ID\": 7\n    }\n]"
+				}
+			]
+		},
+		{
+			"name": "Search News by News Date & Category Name",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44375/api/news/2023-06-30/Test",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44375",
+					"path": [
+						"api",
+						"news",
+						"2023-06-30",
+						"Test"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Search News by News Date & Category Name",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:44375/api/news/2023-06-30/Test",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "44375",
+							"path": [
+								"api",
+								"news",
+								"2023-06-30",
+								"Test"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Cache-Control",
+							"value": "no-cache"
+						},
+						{
+							"key": "Pragma",
+							"value": "no-cache"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Expires",
+							"value": "-1"
+						},
+						{
+							"key": "Server",
+							"value": "Microsoft-IIS/10.0"
+						},
+						{
+							"key": "X-AspNet-Version",
+							"value": "4.0.30319"
+						},
+						{
+							"key": "X-SourceFiles",
+							"value": "=?UTF-8?B?RDpcQVNQICAuTkVUIENvZGVzXFdlYiBBcHBzXFdFQi1BUFBTXEFzc2lnbm1lbnRcVGhlIE5ld3MgRW5naW5lXFRoZSBOZXdzIEVuZ2luZVxhcGlcbmV3c1wyMDIzLTA2LTMwXFRlc3Q=?="
+						},
+						{
+							"key": "X-Powered-By",
+							"value": "ASP.NET"
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 20 Jul 2023 21:11:13 GMT"
+						},
+						{
+							"key": "Content-Length",
+							"value": "162"
+						}
+					],
+					"cookie": [],
+					"body": "[\n    {\n        \"Category\": {\n            \"Newses\": [],\n            \"Category_ID\": 7,\n            \"Name\": \"Test\"\n        },\n        \"News_ID\": 10,\n        \"Title\": \"Title 10\",\n        \"Description\": \"c448484-c1\",\n        \"Date\": \"2023-06-30T00:00:00\",\n        \"Category_ID\": 7\n    }\n]"
+				}
+			]
+		}
+	]
+}

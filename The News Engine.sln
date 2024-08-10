@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The News Engine", "The News Engine\The News Engine.csproj", "{940C0307-D4CF-41AD-9544-F6633887C544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{471CB5B1-05FE-4632-BC30-4789C4CB5EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FE51AA2C-8655-4437-8E1A-0469BE061F9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{940C0307-D4CF-41AD-9544-F6633887C544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940C0307-D4CF-41AD-9544-F6633887C544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940C0307-D4CF-41AD-9544-F6633887C544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940C0307-D4CF-41AD-9544-F6633887C544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{471CB5B1-05FE-4632-BC30-4789C4CB5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471CB5B1-05FE-4632-BC30-4789C4CB5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471CB5B1-05FE-4632-BC30-4789C4CB5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471CB5B1-05FE-4632-BC30-4789C4CB5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE51AA2C-8655-4437-8E1A-0469BE061F9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE51AA2C-8655-4437-8E1A-0469BE061F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE51AA2C-8655-4437-8E1A-0469BE061F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE51AA2C-8655-4437-8E1A-0469BE061F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB800715-A55C-4432-BED0-B828BC2EEF79}
+	EndGlobalSection
+EndGlobal

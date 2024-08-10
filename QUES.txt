@@ -1,0 +1,14 @@
+<form action="/Admin/FinishedAssaign" method="get" class="form-inline">
+                        <div class="form-group">
+                            <input type="hidden" name="RequestID" value="@item.Request_ID" />
+                            <select class="form-control" name="EmployeeID">
+                                @foreach (var emp in Model.Employees)
+                                {
+                                    <option value="@emp.Employee_ID">@emp.Name</option>
+                                }
+                            </select>
+                        </div>
+                        <button type="submit" class="btn btn-success ml-2">Assign</button>
+                    </form>
+
+i want this <Select>and <button>side by side by using Bootstrap class
